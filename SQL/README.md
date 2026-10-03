@@ -17,7 +17,7 @@ It includes:
 
 ### Database Diagram
 
-![University Database Diagram](./University_Diagram.png)
+![University Database Diagram](./university_sql.png)
 
 ## SQL Implementation
 
@@ -48,8 +48,6 @@ The stored procedures were created to answer questions such as:
 
 [View University SQL Code](./university.sql)
 
-## Diagram
-[View University Diagram](./university_sql.sql)
 
 
 
