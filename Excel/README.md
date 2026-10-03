@@ -10,7 +10,7 @@ The data was loaded into **Power Pivot** and the relationships between the table
 
 ### Power Pivot Data Model
 
-![University Power Pivot Data Model](./university_Power.png)
+![University Power Pivot Data Model](./university_power.png)
 
 ## KPIs
 
@@ -41,7 +41,7 @@ The final dashboard combines the KPIs, PivotTables, and charts to provide an ove
 
 ### Dashboard Preview
 
-![University Dashboard](./university_Dash.png)
+![University Dashboard](./university_dash.png)
 
 ## Excel File
 
