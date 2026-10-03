@@ -33,7 +33,7 @@ Several PivotTables were created to analyze the university data:
 
 ### PivotTables
 
-![University PivotTables](./university_pivot.png)
+![University PivotTables](./pivot.png)
 
 ## Dashboard
 
